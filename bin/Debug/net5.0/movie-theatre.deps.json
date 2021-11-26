@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "movie-theatre/1.0.0": {
+        "runtime": {
+          "movie-theatre.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "movie-theatre/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
